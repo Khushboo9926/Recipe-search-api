@@ -51,7 +51,7 @@ submitForm(){
    // this.res = res
 
    console.log(this.searchList);
- // this.route.navigate(["searchresult"]);
+  this.route.navigate([""]);
 
   })
 
